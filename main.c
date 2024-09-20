@@ -10,6 +10,8 @@ int main()
     	printf("Hello world!\r\n");
 		doit();
 		sleep(2);
+		printf("Yes\r\n");
+		printf("Why\r\n");
 	}
 	return 0;
 }
