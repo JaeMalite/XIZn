@@ -12,6 +12,7 @@ int main()
 		sleep(2);
 		printf("Yes\r\n");
 		printf("Why\r\n");
+		sleep(1);
 	}
 	return 0;
 }
